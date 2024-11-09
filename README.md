@@ -9,11 +9,11 @@
 | 0 | Basic Matrix Algebra  |
 | 1  | Diagonalization  |
 | 2  | Eigenvalues and Eigenvectors  |
-| 3  | Gram Schmidt Process  |
+| 3  | Random Variables  |
 | 4  | Inner Product and Orthogonality  |
 |5  | Linear Combination  |
 | 6  | Linear Independence  |
-| 7  | The Singular Value Decomposition  |
+| 7  | Normal distribution  |
 | 8  | Vector Addition Subtraction and Scalar Multiplication  |
 | 9  | Vector Space and Subspace  |
 
