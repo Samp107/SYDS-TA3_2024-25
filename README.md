@@ -13,7 +13,7 @@
 | 4  | Inner Product and Orthogonality  |
 |5  | Linear Combination  |
 | 6  | Linear Independence  |
-| 7  | Normal distribution  |
+| 7  | Null Space vs Col Space, Row Space and Rank  |
 | 8  | Vector Addition Subtraction and Scalar Multiplication  |
 | 9  | Vector Space and Subspace  |
 
